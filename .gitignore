@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+instance/
+.env
+venv/
+.env/
+*.log
+*.idea/
+*.vscode/
+venv310/
+venv/
+*.pkl
+*.dll
